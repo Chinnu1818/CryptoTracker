@@ -33,6 +33,4 @@ This project demonstrates frontend architecture design, API integration, authent
 - REST APIs for live crypto data
 - Custom API service layer (`api.js`)
 
----
-
-## 📂 Project Structure
+--- 
